@@ -1,0 +1,23 @@
+{
+  "EASY": [
+    {
+      "score": 150,
+      "player": "Player",
+      "date": "2024-06-30 12:00"
+    }
+  ],
+  "MEDIUM": [
+    {
+      "score": 225,
+      "player": "Player",
+      "date": "2024-06-30 12:15"
+    }
+  ],
+  "HARD": [
+    {
+      "score": 320,
+      "player": "Player",
+      "date": "2024-06-30 12:30"
+    }
+  ]
+}

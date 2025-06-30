@@ -1,0 +1,24 @@
+Category,Metric,Value,Description
+Development,Total Prompts,6,Strategic requests to Amazon Q CLI
+Development,Code Generated,800+,Lines of professional Python code
+Development,Development Time,1 session,Complete game built in single session
+Features,Game Features,25+,Major features implemented
+Features,Game States,5,Distinct screens with transitions
+Features,Visual Effects,10+,Particle and animation systems
+Features,Audio Integration,7+,Sound effects plus background music
+Features,Difficulty Levels,3,Easy/Medium/Hard with different speeds
+Features,Persistent Data,JSON,Leaderboard system with top 10 scores
+Technical,Architecture,Modular,Clean separation of concerns
+Technical,Type Hints,Complete,Professional code documentation
+Technical,Error Handling,Comprehensive,Graceful fallbacks throughout
+Technical,Performance,Optimized,60 FPS menus variable gameplay
+Visual,Particle Systems,Advanced,Explosions sparkles ambient effects
+Visual,Snake Effects,Glowing,Multi-layer glow with animated eyes
+Visual,UI Design,Professional,Gradient backgrounds 3D buttons
+Visual,Game Area,Separated,700x540 dedicated play area
+Audio,Sound Effects,7,eat turn game_over hover click start high_score
+Audio,Background Music,Supported,Looping music with volume controls
+Audio,Fallback System,Built-in,Placeholder sounds when files missing
+Data,High Scores,Persistent,JSON storage between sessions
+Data,Leaderboard,Professional,Top 10 per difficulty with dates
+Data,Score Multipliers,Dynamic,1.0x 1.5x 2.0x based on difficulty

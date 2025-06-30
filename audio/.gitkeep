@@ -1,0 +1,12 @@
+# This file keeps the audio directory in git
+# Place your audio files here:
+# - background_music.ogg
+# - eat_food.wav
+# - turn.wav
+# - game_over.wav
+# - button_hover.wav
+# - button_click.wav
+# - game_start.wav
+# - high_score.wav
+
+# See docs/AUDIO_SETUP.md for complete instructions
