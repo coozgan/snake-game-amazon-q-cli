@@ -16,8 +16,6 @@ parts/
 sdist/
 var/
 wheels/
-blog-posts/
-archive/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
@@ -43,6 +41,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*.py,cover
 .hypothesis/
 .pytest_cache/
 
